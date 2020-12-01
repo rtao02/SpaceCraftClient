@@ -1,0 +1,14 @@
+C:\Users\76744\source\repos\DSNClient\DSNClient\bin\Debug\DSNClient.exe.config
+C:\Users\76744\source\repos\DSNClient\DSNClient\bin\Debug\DSNClient.exe
+C:\Users\76744\source\repos\DSNClient\DSNClient\bin\Debug\DSNClient.pdb
+C:\Users\76744\source\repos\DSNClient\DSNClient\bin\Debug\DSNInterfaces.dll
+C:\Users\76744\source\repos\DSNClient\DSNClient\bin\Debug\SpaceCraft.dll
+C:\Users\76744\source\repos\DSNClient\DSNClient\bin\Debug\DSNInterfaces.pdb
+C:\Users\76744\source\repos\DSNClient\DSNClient\bin\Debug\SpaceCraft.pdb
+C:\Users\76744\source\repos\DSNClient\DSNClient\obj\Debug\SpaceCraftsClient.csprojAssemblyReference.cache
+C:\Users\76744\source\repos\DSNClient\DSNClient\obj\Debug\DSNClient.Properties.Resources.resources
+C:\Users\76744\source\repos\DSNClient\DSNClient\obj\Debug\SpaceCraftsClient.csproj.GenerateResource.cache
+C:\Users\76744\source\repos\DSNClient\DSNClient\obj\Debug\SpaceCraftsClient.csproj.CoreCompileInputs.cache
+C:\Users\76744\source\repos\DSNClient\DSNClient\obj\Debug\SpaceCraftsClient.csproj.CopyComplete
+C:\Users\76744\source\repos\DSNClient\DSNClient\obj\Debug\DSNClient.exe
+C:\Users\76744\source\repos\DSNClient\DSNClient\obj\Debug\DSNClient.pdb
